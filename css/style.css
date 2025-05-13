@@ -1,0 +1,37 @@
+body{
+    font-family: "area-normal", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+header h1{
+    font-family: "articulat-cf", sans-serif;
+    font-weight: 900;
+    font-size: 36px;
+    font-style: normal;
+
+}
+header p{
+    font-family: "articulat-cf", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.links{
+    list-style: none;
+    padding: 0;
+    margin-top: 2rem;
+}
+
+.links a{
+    font-family: "articulat-cf", sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    font-style: normal;
+    text-decoration: none;
+    color: #000;
+}
+
+
+
